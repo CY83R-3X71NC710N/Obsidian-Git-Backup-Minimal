@@ -1,0 +1,1 @@
+# Obsidian-Git-Backup-Minimal
